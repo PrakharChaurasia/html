@@ -8,9 +8,10 @@
         <div id="avatar">
           <img src="loginavatar.jpg"; id="avt">
            <form ><br>&nbsp;LOGIN<br>
-            
+            <a href="#">forget password</a>
                </form>
             </div>
         </body>
+        </html>
         
     
